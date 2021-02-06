@@ -4,4 +4,4 @@
 ### Informal responses
 [Running Boy](https://nazehnle.github.io/DATA100/)
 
-[Challenge Problem](https://nazehnle.github.io/DATA100/)
+[Challenge Problem](https://nazehnle.github.io/DATA100/Challenge.html)
