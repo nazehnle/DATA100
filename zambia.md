@@ -1,2 +1,2 @@
 
-[]!zambia.png
+[]!(zambia.png)
