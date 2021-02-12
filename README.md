@@ -4,3 +4,4 @@
 
 #### Informal responses
 [Challenge Problem](https://nazehnle.github.io/DATA100/Challenge.html)
+[Zambia Map]()
