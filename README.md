@@ -5,4 +5,4 @@
 ### Informal responses
 [Challenge Problem](https://nazehnle.github.io/DATA100/Challenge.html)
 
-[Zambia Map](https://nazehnle.github.io/DATA100/zambia.html)
+[Project 1](https://nazehnle.github.io/DATA100/zambia.html)
