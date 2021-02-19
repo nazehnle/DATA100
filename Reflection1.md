@@ -1,4 +1,4 @@
-#### Below is my reflection on the article "Don't forget people in the use of big data for development" by Joshua Bloomenstock:
+### Below is my reflection on the article "Don't forget people in the use of big data for development" by Joshua Bloomenstock:
 
 
 ##### Developments in technology cloud our judgement from time to time. Excitement and eagerness are byproducts of such advances, and many jump the gun, so to speak. With so many new devices it can be hard to resist applying them to the real world right away. Thus, technology is not always applied in a fashion that provides the best results. The potential is inarguably there, however – it is the potential that brings about impatience in applying the new technology.
