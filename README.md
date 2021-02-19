@@ -7,4 +7,4 @@
 
 [Project 1](https://nazehnle.github.io/DATA100/zambia.html)
 
-[Reflection 1](https://nazehnle.github.io/DATA100/)
+[Reflection 1](https://nazehnle.github.io/DATA100/Reflection1.html)
