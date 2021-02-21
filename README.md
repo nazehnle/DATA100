@@ -5,6 +5,6 @@
 ### Informal responses
 [Challenge Problem](https://nazehnle.github.io/DATA100/Challenge.html)
 
-[Project 1](https://nazehnle.github.io/DATA100/zambia.html)
+[Project 1](https://nazehnle.github.io/DATA100/Project1.html)
 
 [Reflection 1](https://nazehnle.github.io/DATA100/Reflection1.html)
