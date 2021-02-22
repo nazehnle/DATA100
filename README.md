@@ -3,7 +3,7 @@
 
 
 ### Informal responses
-[Challenge Problem](https://nazehnle.github.io/DATA100/Challenge.html)
+[Challenge 0](https://nazehnle.github.io/DATA100/Challenge.html)
 
 [Project 1](https://nazehnle.github.io/DATA100/Project1.html)
 
