@@ -3,10 +3,11 @@
 
 
 ### Informal responses
-[Challenge 0](https://nazehnle.github.io/DATA100/Challenge.html)
+[Reflection 1](https://nazehnle.github.io/DATA100/Reflection1.html)
+
+### Projects
+[Project 0](https://nazehnle.github.io/DATA100/Challenge.html)
 
 [Project 1](https://nazehnle.github.io/DATA100/Project1.html)
-
-[Reflection 1](https://nazehnle.github.io/DATA100/Reflection1.html)
 
 [Project 2](https://nazehnle.github.io/DATA100/Project2.html)
