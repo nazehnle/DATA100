@@ -8,3 +8,5 @@
 [Project 1](https://nazehnle.github.io/DATA100/Project1.html)
 
 [Reflection 1](https://nazehnle.github.io/DATA100/Reflection1.html)
+
+[Project 2](https://nazehnle.github.io/DATA100/Project2.html)
