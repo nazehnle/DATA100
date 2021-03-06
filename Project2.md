@@ -5,4 +5,4 @@
 
 ### Deliverable:
 #### I produced a figure consisting of a spatial plot and a bar plot. The spatial plot displays the population density of each of Zambia's provinces in 2020. The bar plot gives the relative population among the provinces.
-![](zmb_pop_fig.png)
+![]()
