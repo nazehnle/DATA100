@@ -5,6 +5,8 @@
 ### Informal responses
 [Reflection 1](https://nazehnle.github.io/DATA100/Reflection1.html)
 
+[Reflection 2](https://nazehnle.github.io/DATA100/Reflection2.html)
+
 ### Projects
 [Project 0](https://nazehnle.github.io/DATA100/Challenge.html)
 
