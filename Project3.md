@@ -1,6 +1,6 @@
 # Project 3
 
-## Challenge 1
+### Challenge 1
 
 
 ![](lva_density_pop.png)
@@ -8,7 +8,7 @@
 ![](lva_density_ntl.png)
 
 
-## Challenge 2
+### Challenge 2
 
 
 ![](lva_ntl_pop.png)
