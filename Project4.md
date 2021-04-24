@@ -25,5 +25,3 @@
 ![](cesis_pop.png)
 ![](cesis3D.png)
 ![](cesis_diff_overlay.png)
-
-## Project 2
