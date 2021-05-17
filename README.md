@@ -21,3 +21,5 @@
 [Project 3](https://nazehnle.github.io/DATA100/Project3.html)
 
 [Project 4](https://nazehnle.github.io/DATA100/Project4.html)
+
+[Final Project](https://nazehnle.github.io/DATA100/FinalProject.html)
