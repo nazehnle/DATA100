@@ -3,6 +3,6 @@
 ## Accessibility 1
 ![](ua_dot.png)
 ## Accessibility 2
-![](daug_hcfs.png)
+![](daug_hcfs1.png)
 ## Accessibility 3
-![](daugdowntown3D.png)
+![](DD3D.png)
