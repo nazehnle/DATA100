@@ -1,7 +1,7 @@
 # Final Project
 
 ### Accessibility 1
-![](ua_dot.png)
+![](ua_dot1.png)
 
 ### Accessibility 2
 ![](daug_hcfs1.png)
